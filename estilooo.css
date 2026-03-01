@@ -1,0 +1,13 @@
+.contenedor {
+  margin: auto;
+  width: 100%;
+  min-width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.imagen {
+  width: 100%;
+  min-width: auto;
+  height: auto;
+}
